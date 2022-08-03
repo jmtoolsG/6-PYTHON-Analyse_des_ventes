@@ -1,0 +1,7 @@
+Le notebook a été divisé en 2 partie par contrainte de performances.
+
+Le lancement de la 1ère partie pgénérera le fichier lapage_bdd.csv en PJ, 
+qui n'est autre que la jointure des différents fichier .csv du projet.
+Le lancement de la 2e partie du notebook nécessite donc ce dernier.
+
+En l'état, le lancement de la 1ère partie suivi de la seconde partie suffit.
