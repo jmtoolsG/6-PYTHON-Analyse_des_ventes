@@ -10,7 +10,7 @@ En tant que Data Analyst dans une entreprise de vente de livres en ligne, la dir
   - Présentation graphique de l'évolution d'une série temporelle
   - Présentation graphique d'une décomposition en moyennes mobiles
 
-- Réaliser un test statistique
+- Réaliser des tests statistiques
   - Réalisation d'un test de χ² (khi2) dans le cas d’une corrélation entre deux variables qualitatives
   - Réalisation d'un test de Pearson dans le cas d’une corrélation entre deux variables quantitatives
   - Réalisation d'un test de comparaison (paramétrique ou non paramétrique en fonction des hypothèses) pour vérifier la corrélation entre une variable quantitative et une variable qualitative
