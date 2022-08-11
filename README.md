@@ -13,7 +13,7 @@ En tant que Data Analyst dans une entreprise de vente de livres en ligne, la dir
 - Réaliser des tests statistiques
   - Réalisation d'un test de χ² (khi2) dans le cas d’une corrélation entre deux variables qualitatives
   - Réalisation d'un test de Pearson dans le cas d’une corrélation entre deux variables quantitatives
-  - Réalisation d'un test de comparaison (paramétrique ou non paramétrique en fonction des hypothèses) pour vérifier la corrélation entre une variable quantitative et une variable qualitative
+  - Réalisation d'un test de comparaison pour vérifier la corrélation entre une variable quantitative et une variable qualitative
   - Réalisation d'un test de normalité et d’égalité des variances afin de vérifier les hypothèses à l’utilisation (ou non) d’un test de Student
 
 #### Outils utilisés :
